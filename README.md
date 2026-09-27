@@ -42,43 +42,33 @@ Both tasks aim to recover the password protecting the same PDF file and demonstr
 ## TASK 1 
 TARGET : My-Locked-PDF1.pdf
 
-![Purpose](https://github.com/KanishkaManikandan5/NETWORKWALKS-B083-WK2-PENETRATION-TESTING-ZENMAP/blob/54c6b779ac3bf0852ba6377de34b19660c16ee9e/ZENMAP%201.png)
+![Purpose](https://github.com/KanishkaManikandan5/NETWORKWALKS-B083-WK3-PASSWORD-CRACKING/blob/040836f68badbe08612bb2a9c142fa44a7001a20/TASK%201.jpeg)
 
 
-![Purpose](https://github.com/KanishkaManikandan5/NETWORKWALKS-B083-WK2-PENETRATION-TESTING-ZENMAP/blob/54c6b779ac3bf0852ba6377de34b19660c16ee9e/ZENMAP%201.png)
+![Purpose](https://github.com/KanishkaManikandan5/NETWORKWALKS-B083-WK3-PASSWORD-CRACKING/blob/040836f68badbe08612bb2a9c142fa44a7001a20/TASK%201.1.jpeg)
 
-![Purpose](https://github.com/KanishkaManikandan5/NETWORKWALKS-B083-WK2-PENETRATION-TESTING-ZENMAP/blob/54c6b779ac3bf0852ba6377de34b19660c16ee9e/ZENMAP%201.png)
+![Purpose](https://github.com/KanishkaManikandan5/NETWORKWALKS-B083-WK3-PASSWORD-CRACKING/blob/040836f68badbe08612bb2a9c142fa44a7001a20/TASK%201.2.jpeg)
 
+![Purpose](https://github.com/KanishkaManikandan5/NETWORKWALKS-B083-WK3-PASSWORD-CRACKING/blob/040836f68badbe08612bb2a9c142fa44a7001a20/TASK%201.3.jpeg)
 
-
-![Purpose](https://github.com/KanishkaManikandan5/NETWORKWALKS-B083-WK2-PENETRATION-TESTING-ZENMAP/blob/54c6b779ac3bf0852ba6377de34b19660c16ee9e/ZENMAP%201.png)
 ---
 ## TASK 2
 TARGET : My-Locked-PDF2.pdf
-![Purpose](https://github.com/KanishkaManikandan5/NETWORKWALKS-B083-WK2-PENETRATION-TESTING-ZENMAP/blob/54c6b779ac3bf0852ba6377de34b19660c16ee9e/ZENMAP%201.png)
 
+![Purpose](https://github.com/KanishkaManikandan5/NETWORKWALKS-B083-WK3-PASSWORD-CRACKING/blob/040836f68badbe08612bb2a9c142fa44a7001a20/TASK%202.jpeg)
 
-![Purpose](https://github.com/KanishkaManikandan5/NETWORKWALKS-B083-WK2-PENETRATION-TESTING-ZENMAP/blob/54c6b779ac3bf0852ba6377de34b19660c16ee9e/ZENMAP%201.png)
+![Purpose](https://github.com/KanishkaManikandan5/NETWORKWALKS-B083-WK3-PASSWORD-CRACKING/blob/040836f68badbe08612bb2a9c142fa44a7001a20/TASK%202.1.jpeg)
 
-![Purpose](https://github.com/KanishkaManikandan5/NETWORKWALKS-B083-WK2-PENETRATION-TESTING-ZENMAP/blob/54c6b779ac3bf0852ba6377de34b19660c16ee9e/ZENMAP%201.png)
+![Purpose](https://github.com/KanishkaManikandan5/NETWORKWALKS-B083-WK3-PASSWORD-CRACKING/blob/040836f68badbe08612bb2a9c142fa44a7001a20/TASK%202.3.jpeg)
 
-
-
-![Purpose](https://github.com/KanishkaManikandan5/NETWORKWALKS-B083-WK2-PENETRATION-TESTING-ZENMAP/blob/54c6b779ac3bf0852ba6377de34b19660c16ee9e/ZENMAP%201.png)
 ---
+
 ## TASK 3
-TARGET : My-Locked-PDF2.pdf
-![Purpose](https://github.com/KanishkaManikandan5/NETWORKWALKS-B083-WK2-PENETRATION-TESTING-ZENMAP/blob/54c6b779ac3bf0852ba6377de34b19660c16ee9e/ZENMAP%201.png)
+TARGET : My-Locked-PDF3.pdf
 
+![Purpose](https://github.com/KanishkaManikandan5/NETWORKWALKS-B083-WK3-PASSWORD-CRACKING/blob/040836f68badbe08612bb2a9c142fa44a7001a20/TASK%203.jpeg)
 
-![Purpose](https://github.com/KanishkaManikandan5/NETWORKWALKS-B083-WK2-PENETRATION-TESTING-ZENMAP/blob/54c6b779ac3bf0852ba6377de34b19660c16ee9e/ZENMAP%201.png)
-
-![Purpose](https://github.com/KanishkaManikandan5/NETWORKWALKS-B083-WK2-PENETRATION-TESTING-ZENMAP/blob/54c6b779ac3bf0852ba6377de34b19660c16ee9e/ZENMAP%201.png)
-
-
-
-![Purpose](https://github.com/KanishkaManikandan5/NETWORKWALKS-B083-WK2-PENETRATION-TESTING-ZENMAP/blob/54c6b779ac3bf0852ba6377de34b19660c16ee9e/ZENMAP%201.png)
-
+![Purpose](https://github.com/KanishkaManikandan5/NETWORKWALKS-B083-WK3-PASSWORD-CRACKING/blob/040836f68badbe08612bb2a9c142fa44a7001a20/TASK%203.1.jpeg)
 
 ---
 
@@ -95,7 +85,9 @@ TARGET : My-Locked-PDF2.pdf
 8. Opened the PDF using the recovered password to confirm success.
 
 ### Result
-✅ **Password Cracked:** `password1`
+![Purpose](https://github.com/KanishkaManikandan5/NETWORKWALKS-B083-WK3-PASSWORD-CRACKING/blob/38a76efbfae3f9535b8ac78fb2f4af5f036d81b8/TASK%204.jpeg)
+![Purpose](https://github.com/KanishkaManikandan5/NETWORKWALKS-B083-WK3-PASSWORD-CRACKING/blob/38a76efbfae3f9535b8ac78fb2f4af5f036d81b8/TASK4.1.jpeg)
+![Purpose](https://github.com/KanishkaManikandan5/NETWORKWALKS-B083-WK3-PASSWORD-CRACKING/blob/38a76efbfae3f9535b8ac78fb2f4af5f036d81b8/TASK%204.2.jpeg)
 
 ---
 
@@ -107,18 +99,9 @@ TARGET : My-Locked-PDF2.pdf
 - Strong passwords (12+ characters, mixed case, numbers, symbols) drastically increase cracking time and are essential for real-world protection.
 
 ---
+# 👤 Author
 
-## 📸 Screenshots
-Screenshots of each step (hash extraction, wordlist attack in progress, and successful crack) are included in the `/screenshots` folder of this repository.
+**KANISHKA M**
+Cybersecurity Intern B083
 
----
-
-## ⚠️ Disclaimer
-This project was performed in a **controlled academic lab environment** for educational purposes only, as part of a Cybersecurity & Ethical Hacking course. Password cracking techniques should only be used on systems/files you own or have explicit authorization to test.
-
----
-
-## 👤 Author
-**Kanishka M**
-Final Year B.Sc. Computer Science (Cyber Security)
-PSGR Krishnammal College for Women, Coimbatore
+LinkedIn: <https://www.linkedin.com/in/kanishka-m525>
